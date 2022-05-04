@@ -1,0 +1,26 @@
+metric                  correlation coefficient (MRG)       correlation coefficient (m >= 7)    correlation coefficient (m >= 9)
+psi^max                 0.109                               0.309                               0.275                           
+psi^max(800 hPa)        0.387                               0.460                               0.444                           
+psi^max(750 hPa)        0.342                               0.445                               0.427                           
+psi^max(700 hPa)        0.259                               0.395                               0.375                           
+psi^max(650 hPa)        0.191                               0.356                               0.332                           
+psi^max(600 hPa)        0.110                               0.307                               0.278                           
+psi^max(550 hPa)        0.018                               0.248                               0.212                           
+psi^max(500 hPa)        -0.056                              0.195                               0.153                           
+psi^max(450 hPa)        -0.097                              0.156                               0.110                           
+psi^max(400 hPa)        -0.091                              0.139                               0.089                           
+<psi^max>_p             0.114                               0.301                               0.261                           
+psi(phi^max, p^max)     0.109                               0.306                               0.276                           
+psi_NHC                 0.041                               0.264                               0.235                           
+Phi^max(150 hPa)        -0.413                              -0.299                              -0.330                          
+Phi^max(200 hPa)        0.378                               0.387                               0.370                           
+Phi^max(250 hPa)        0.404                               0.437                               0.435                           
+-omega^min(400 hPa)     -0.345                              -0.245                              -0.269                          
+-omega^min(500 hPa)     -0.028                              0.033                               0.010                           
+-omega^min(600 hPa)     0.302                               0.323                               0.316                           
+-omega^min              0.160                               0.207                               0.214                           
+-v_E^NHC(1000-850 hPa)  0.143                               0.163                               0.165                           
+I_M(all m)              0.998                               0.828                               0.826                           
+I_M^MRG(all m)          1.000                               0.833                               0.830                           
+I_M(m >= 7)             0.833                               1.000                               0.990                           
+I_M(m >= 9)             0.830                               0.990                               1.000                           

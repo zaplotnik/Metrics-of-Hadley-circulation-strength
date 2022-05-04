@@ -1,0 +1,15 @@
+metric                  trend [10^8 kg/s/year]          sigma [10^8 kg/s/year]  
+psi^max                 -0.54692                        0.79677                 
+psi^max(800 hPa)        -0.29003                        0.72485                 
+psi^max(775 hPa)        -0.38650                        0.76369                 
+psi^max(750 hPa)        -0.51379                        0.79777                 
+psi^max(700 hPa)        -0.73450                        0.84722                 
+psi^max(650 hPa)        -0.81501                        0.85434                 
+psi^max(600 hPa)        -0.90586                        0.83118                 
+psi^max(550 hPa)        -0.98626                        0.80268                 
+psi^max(500 hPa)        -0.98726                        0.78947                 
+psi^max(450 hPa)        -0.88520                        0.78885                 
+psi^max(400 hPa)        -0.61368                        0.79851                 
+<psi^max>_p             -0.51743                        0.68040                 
+psi(phi^max, p^max)     -0.79854                        0.87254                 
+psi_NHC                 -0.04309                        0.35898                 

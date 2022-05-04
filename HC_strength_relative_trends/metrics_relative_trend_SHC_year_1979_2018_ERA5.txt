@@ -1,0 +1,15 @@
+metric                  relative trend [%/year]         relative sigma [%/year] 
+psi^min                 0.136                           0.081                   
+psi^min(800 hPa)        0.082                           0.079                   
+psi^min(750 hPa)        0.125                           0.080                   
+psi^min(700 hPa)        0.160                           0.081                   
+psi^min(650 hPa)        0.192                           0.082                   
+psi^min(600 hPa)        0.214                           0.082                   
+psi^min(550 hPa)        0.233                           0.081                   
+psi^min(500 hPa)        0.257                           0.079                   
+psi^min(450 hPa)        0.280                           0.077                   
+psi^min(400 hPa)        0.319                           0.075                   
+<psi^min>_p             0.183                           0.073                   
+psi(phi^min, p^min)     0.177                           0.079                   
+psi_SHC                 0.223                           0.070                   
+v_E^SHC(1000-850 hPa)   0.333                           0.076                   

@@ -1,0 +1,15 @@
+metric                  relative trend [%/year]         relative sigma [%/year] 
+psi^max                 0.109                           0.091                   
+psi^max(800 hPa)        0.240                           0.088                   
+psi^max(750 hPa)        0.259                           0.094                   
+psi^max(700 hPa)        0.239                           0.098                   
+psi^max(650 hPa)        0.191                           0.098                   
+psi^max(600 hPa)        0.121                           0.096                   
+psi^max(550 hPa)        0.043                           0.094                   
+psi^max(500 hPa)        -0.018                          0.093                   
+psi^max(450 hPa)        -0.055                          0.095                   
+psi^max(400 hPa)        -0.041                          0.098                   
+<psi^max>_p             0.092                           0.090                   
+psi(phi^max, p^max)     0.138                           0.096                   
+psi_NHC                 0.058                           0.086                   
+v_E^NHC(1000-850 hPa)   0.038                           0.071                   

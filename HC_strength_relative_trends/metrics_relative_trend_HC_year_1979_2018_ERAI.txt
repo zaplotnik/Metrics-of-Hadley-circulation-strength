@@ -1,0 +1,12 @@
+metric                  relative trend [%/year]         relative sigma [%/year] 
+Phi^max(150 hPa)        -1.221                          0.160                   
+Phi^max(200 hPa)        1.125                           0.183                   
+Phi^max(250 hPa)        1.686                           0.181                   
+omega^min(400 hPa)      -0.310                          0.148                   
+omega^min(500 hPa)      0.032                           0.151                   
+omega^min(600 hPa)      0.710                           0.162                   
+omega^min               0.484                           0.141                   
+I_M (all m)             0.084                           0.020                   
+I_M^MRG (all m)         0.281                           0.071                   
+I_M (m >= 7)            0.202                           0.054                   
+I_M (m >= 9)            0.230                           0.058                   
