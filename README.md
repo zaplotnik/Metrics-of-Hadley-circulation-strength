@@ -13,5 +13,3 @@ The data is organised into the following folder:
 * `HC_strength_maxmin_pressure_levels`: pressure levels of maximum and minimum values in the annual-mean streamfunction fields
 * `animation`: animation of the changes of annual-mean, january and july Hadley cell, desribed by the zonal-mean streamfunction in the latitude-pressure plane
 * `correlations_AHC`: correlation of the average HC strength measure with other streamfunction based measures; for Northern Hadley cell (NHC) and Southern Hadley cell (SHC)
-
-[![DOI](https://zenodo.org/badge/488761843.svg)](https://zenodo.org/badge/latestdoi/488761843)
